@@ -11,7 +11,7 @@ The purpose of the present repository is to perform analysis over relationa data
 
 ## PROJECTS
 
-### Branch A - GloBox Website Analysis  [A - GloBox Analysis](../../tree/A---GloBox_Website_Analysis)
+### Branch A - GloBox Website Analysis  [A - GloBox Analysis](../../tree/A---Globox_Website_Analysis)
 
 
 Dataset about the short-term rental market in New York City. Aiming to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
