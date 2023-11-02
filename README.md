@@ -1,18 +1,16 @@
-# SQL_Python
+## DESCRIPTION
 
-The purpose of the present repository is to perform analysis over relationa databases, ranging from Python/Tableau Visualizations to statistical and machine learning studies. Each case study will be presented on its own separated branch, encompassing raw data, analysis, and associated files or links to the visualization. Additionally, every branch will contain a README.cd file providing an explanation of the respective case.
+### Branch A - GloBox Website Analysis
+Relational dataset containing data related to A/B test ran over a new design for the official website of the company available for smartphones. The primary objective of this study is to process and transform the data available in order to perform a statistics analysis over the test. Aiming to determine the relevance of it for the company business development.
 
-## DATA ANALYSIS WORKFLOW
+## WORKFLOW
 
-1. Databases available either in  public serves (such as ElephantSQL) or the file(s)/link will be available to download locally.
-2. Data cleaning, primary visualization, and transformation is performed with the help of Python and MS Excel, depending on the specific cases.
-3. Statistical analysis will be perfomed mostly using Python. And data visualization and/or dashboarding will be either with Python or Tableau.
+1. The database was made available in an open SQL server - ElephantSQL (Credentials inside the python file)
+2. Data cleaning and transformation were done using Python
+3. Statistic analysis performed using Python
+4. Data visualization using Python
 
+Files:
 
-## PROJECTS
-
-### Branch A - GloBox Website Analysis  [A - GloBox Analysis](../../tree/A---Short-Rental-NYC)
-
-
-Dataset about the short-term rental market in New York City. Aiming to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
-
+1. Jupyter notebook: Contains EXCUTIVE ANALYSIS summarizing findings and procedure followed on this study. It details step by step analysis/visualization over the A/B test perfomed by GloBox.
+2. CSV files: Three files. Each one conatining a table from the relational database (users.csv, groups.csv and activity.csv).
