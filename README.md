@@ -14,5 +14,5 @@ The purpose of the present repository is to perform analysis over relationa data
 ### Branch A - GloBox Website Analysis  [A - GloBox Analysis](../../tree/A---Globox_Website_Analysis)
 
 
-Dataset about the short-term rental market in New York City. Aiming to uncover key trends in popular neighborhoods, rental prices, property types, length of stay, and demand over time.
+Relational dataset containing data related to A/B test ran over a new design for the official website of the company available for smartphones. The primary objective of this study is to process and transform the data available in order to perform a statistics analysis over the test. Aiming to determine the relevance of it for the company business development.
 
