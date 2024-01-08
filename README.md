@@ -16,3 +16,4 @@ The purpose of the present repository is to perform analysis over relationa data
 
 Relational dataset containing data related to A/B test ran over a new design for the official website of the company available for smartphones. The primary objective of this study is to process and transform the data available in order to perform a statistics analysis over the test. Aiming to determine the relevance of it for the company business development.
 
+### [Home](https://github.com/luis12pez)
