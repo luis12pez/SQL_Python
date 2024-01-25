@@ -14,3 +14,5 @@ Files:
 
 1. Jupyter notebook: Contains EXCUTIVE ANALYSIS summarizing findings and procedure followed on this study. It details step by step analysis/visualization over the A/B test perfomed by GloBox.
 2. CSV files: Three files. Each one conatining a table from the relational database (users.csv, groups.csv and activity.csv).
+
+### [Go Back](https://github.com/luis12pez/SQL_Python)
